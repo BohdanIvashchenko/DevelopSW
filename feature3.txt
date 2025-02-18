@@ -1,3 +1,6 @@
 changes from feature1
 and
 Changes from feature2!
+feature3.txt
+and
+Final changes from feature3
