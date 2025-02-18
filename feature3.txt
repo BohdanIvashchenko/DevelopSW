@@ -1,1 +1,2 @@
 feature3.txt
+Final changes from feature3
