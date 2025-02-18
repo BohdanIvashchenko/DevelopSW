@@ -1,1 +1,3 @@
 changes from feature1
+and
+Changes from feature2!
